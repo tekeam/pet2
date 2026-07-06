@@ -11,7 +11,7 @@
     "vite": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "express": "latest",
+    "express": "^4.18.3",
     "cors": "latest",
     "multer": "latest"
   },
