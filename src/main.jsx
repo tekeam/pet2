@@ -1,2 +1,2 @@
-import './entry-fixed.jsx';
-console.log('NinjaPet UI loaded');
+import './entry-final.jsx';
+console.log('NinjaPet final UI loaded');
