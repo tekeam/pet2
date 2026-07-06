@@ -1,1 +1,1 @@
-import './entry.jsx';
+import './entry-fixed.jsx';
