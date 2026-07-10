@@ -1,0 +1,15 @@
+{
+  "name": "NinjaPet",
+  "short_name": "NinjaPet",
+  "description": "پلتفرم هوشمند حیوانات خانگی برای پروفایل پت، پیشنهاد غذا، مراکز و اکسپلور",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "/#/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f7fb",
+  "theme_color": "#6d45f5",
+  "icons": [
+    { "src": "/ninjapet-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
